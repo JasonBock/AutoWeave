@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Jason Bock</Authors>
+    <Copyright>Copyright © 2021</Copyright>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+</Project>
